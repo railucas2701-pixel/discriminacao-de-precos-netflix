@@ -31,6 +31,10 @@ GINI = "SI.POV.GINI"
 # Nomes usados por outras fontes (ex.: Heritage) que não batem com os do Banco Mundial.
 ALIASES = {
     "bahamas": "BHS",
+    "the bahamas": "BHS",
+    "the netherlands": "NLD",
+    "brunei darussalam": "BRN",
+    "saint vincent and the grenadines": "VCT",
     "brunei": "BRN",
     "burma": "MMR",
     "myanmar": "MMR",
@@ -41,6 +45,8 @@ ALIASES = {
     "congo republic of": "COG",
     "republic of congo": "COG",
     "cote d ivoire": "CIV",
+    "cote divoire": "CIV",
+    "democratic republic of congo": "COD",
     "ivory coast": "CIV",
     "czech republic": "CZE",
     "czechia": "CZE",
@@ -147,7 +153,7 @@ def load_heritage(path: Path, args) -> pd.DataFrame:
     score = pick_column(df, args.score_col, [r"overall", r"score"])
     year_col = args.year_col or next((c for c in df.columns if re.search(r"year", str(c), re.I)), None)
     if year_col is not None:
-        year = args.year or int(pd.to_numeric(df[year_col], errors="coerce").max())
+        year = args.year = args.year or int(pd.to_numeric(df[year_col], errors="coerce").max())
         df = df[pd.to_numeric(df[year_col], errors="coerce") == year]
         print(f"Heritage: usando o ano {year}")
     out = pd.DataFrame({
@@ -172,7 +178,7 @@ def match_iso3(heritage: pd.DataFrame, countries: pd.DataFrame) -> pd.DataFrame:
     return heritage.dropna(subset=["iso3"])
 
 
-def plot(df: pd.DataFrame, out: Path, label_all: bool, log_y: bool, highlight: list[str]):
+def plot(df: pd.DataFrame, out: Path, label_all: bool, log_y: bool, highlight: list[str], year):
     surface, ink, ink2, series = "#fcfcfb", "#0b0b0b", "#52514e", "#2a78d6"
     fig, ax = plt.subplots(figsize=(13, 8.5), facecolor=surface)
     ax.set_facecolor(surface)
@@ -197,12 +203,14 @@ def plot(df: pd.DataFrame, out: Path, label_all: bool, log_y: bool, highlight: l
         ax.set_yscale("log")
     fmt = plt.FuncFormatter(lambda v, _: f"{v:,.0f}".replace(",", "."))
     ax.yaxis.set_major_formatter(fmt)
-    ax.yaxis.set_minor_formatter(fmt)
+    # Rótulos secundários só em 2 e 5 (x10^n) para não poluir o eixo.
+    ax.yaxis.set_minor_formatter(plt.FuncFormatter(
+        lambda v, _: fmt(v) if f"{v:.0e}"[0] in "25" else ""))
     ax.set_xlabel("Índice de Liberdade Econômica — Heritage Foundation (0–100)", color=ink2)
     ax.set_ylabel("Índice de bem-estar de Sen = PIB per capita PPC × (1 − Gini)\n"
                   "(US$ internacionais constantes de 2021" + (", escala log)" if log_y else ")"),
                   color=ink2)
-    ax.set_title(f"Bem-estar de Sen vs. economia de mercado — {len(df)} países",
+    ax.set_title(f"Bem-estar de Sen vs. economia de mercado (Heritage {year}) — {len(df)} países",
                  loc="left", fontsize=14, color=ink, pad=12)
     ax.grid(True, color="#e4e3df", linewidth=0.8, zorder=0)
     for side in ("top", "right"):
@@ -235,14 +243,18 @@ def main():
 
     args.cache.parent.mkdir(parents=True, exist_ok=True)
     wb = load_world_bank(args.wb_start, args.wb_end, args.cache)
-    heritage = match_iso3(load_heritage(args.heritage, args), wb[["iso3", "wb_name"]])
+    heritage = match_iso3(load_heritage(args.heritage, args), wb_countries())
     df = heritage.merge(wb, on="iso3", how="inner")
+    no_data = heritage.loc[~heritage["iso3"].isin(wb["iso3"]), "pais_heritage"].tolist()
+    if no_data:
+        print(f"Sem PIB PPC ou Gini no Banco Mundial em {args.wb_start}–{args.wb_end} "
+              f"({len(no_data)}): {', '.join(map(str, no_data))}")
     print(f"{len(df)} países com os três dados (Heritage, PIB PPC e Gini).")
 
     table = args.out.with_suffix(".csv")
     df.sort_values("sen", ascending=False).to_csv(table, index=False)
     print(f"Tabela salva em {table}")
-    plot(df, args.out, args.label_all, not args.linear, args.highlight.split(","))
+    plot(df, args.out, args.label_all, not args.linear, args.highlight.split(","), args.year)
 
 
 if __name__ == "__main__":
