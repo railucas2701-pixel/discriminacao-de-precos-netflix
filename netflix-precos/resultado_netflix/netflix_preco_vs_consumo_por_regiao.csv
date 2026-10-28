@@ -1,0 +1,9 @@
+regiao,plano,n,n_consumo_estimado,mediana_pct,media_pct,p25_pct,p75_pct,menor_peso,maior_peso,espaco_mediano_vs_pares_de_renda,espaco_mediano_vs_curva
+UCAN,mais básico,2,0,0.2,0.2,,,United States (0.18%),Canada (0.22%),+168%,+55%
+UCAN,Standard,2,0,0.46,0.46,,,United States (0.41%),Canada (0.51%),+75%,-5%
+LATAM,mais básico,33,13,1.02,1.21,0.77,1.46,Guyana (0.28%),Nicaragua (2.98%),-10%,-12%
+LATAM,Standard,33,13,1.58,1.79,1.25,2.08,Guyana (0.43%),Honduras (4.06%),+20%,+13%
+EMEA,mais básico,111,6,1.01,2.27,0.58,2.85,Monaco (0.11%),Burundi (30.04%),+1%,-8%
+EMEA,Standard,111,6,2.32,5.49,0.88,7.61,Monaco (0.14%),Burundi (80.26%),-0%,-6%
+APAC,mais básico,42,7,1.24,1.94,0.81,2.27,Australia (0.25%),Afghanistan (10.28%),-0%,+22%
+APAC,Standard,42,7,3.04,4.14,2.12,5.11,Australia (0.52%),Afghanistan (20.59%),-13%,-0%

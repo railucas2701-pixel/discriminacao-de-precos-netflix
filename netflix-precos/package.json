@@ -1,0 +1,12 @@
+{
+  "name": "netflix-precos-slide",
+  "private": true,
+  "description": "Gera o slide netflix_faixa_precos_regiao.pptx",
+  "scripts": {
+    "slide": "node netflix_faixa_precos_slide.js netflix_faixa_precos_regiao_gerado.pptx"
+  },
+  "dependencies": {
+    "jszip": "3.10.2",
+    "pptxgenjs": "4.0.1"
+  }
+}

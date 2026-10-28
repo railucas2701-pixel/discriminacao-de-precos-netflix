@@ -1,0 +1,35 @@
+escopo,regiao,tipo_plano,paises_com_o_plano,paises_na_regiao,media_usd,mediana_usd,min_usd,min_pais,max_usd,max_pais
+só países,UCAN,Standard with ads,2,2,7.3,7.3,5.61,Canada,8.99,United States
+só países,UCAN,Standard,2,2,16.66,16.66,13.32,Canada,19.99,United States
+só países,UCAN,Premium,2,2,21.91,21.91,16.83,Canada,26.99,United States
+só países,LATAM,Basic,31,33,6.7,5.99,3.99,Belize,11.99,Trinidad and Tobago
+só países,LATAM,Standard with ads,2,33,5.88,5.88,4.17,Brazil,7.58,Mexico
+só países,LATAM,Standard,33,33,9.92,9.89,5.99,Belize,16.99,Trinidad and Tobago
+só países,LATAM,Premium,33,33,13.21,13.19,7.99,Belize,22.99,Trinidad and Tobago
+só países,EMEA,Mobile,48,114,2.95,2.99,1.54,Kenya,3.57,South Africa
+só países,EMEA,Basic,107,114,6.64,3.99,2.1,Egypt,17.94,Switzerland
+só países,EMEA,Standard with ads,7,114,8.7,7.83,7.83,Germany,10.57,United Kingdom
+só países,EMEA,Standard,114,114,11.06,8.02,3.63,Egypt,27.57,Switzerland
+só países,EMEA,Premium,114,114,14.47,10.66,5.15,Egypt,35.99,Switzerland
+só países,APAC,Mobile,27,43,3.3,2.99,0.9,Pakistan,6.49,Brunei Darussalam
+só países,APAC,Basic,37,43,5.84,3.99,1.63,Pakistan,12.48,Singapore
+só países,APAC,Standard with ads,6,43,7.46,7.98,5.22,South Korea,8.99,"Micronesia, Federated States of"
+só países,APAC,Standard,43,43,10.37,7.99,2.89,Pakistan,19.99,"Micronesia, Federated States of"
+só países,APAC,Premium,43,43,13.24,9.99,3.97,Pakistan,26.99,"Micronesia, Federated States of"
+países + territórios,UCAN,Standard with ads,2,2,7.3,7.3,5.61,Canada,8.99,United States
+países + territórios,UCAN,Standard,2,2,16.66,16.66,13.32,Canada,19.99,United States
+países + territórios,UCAN,Premium,2,2,21.91,21.91,16.83,Canada,26.99,United States
+países + territórios,LATAM,Basic,47,51,8.06,6.99,3.99,Saint Barthélemy,13.44,French Guiana
+países + territórios,LATAM,Standard with ads,4,51,7.43,8.29,4.17,Brazil,8.99,Puerto Rico
+países + territórios,LATAM,Standard,51,51,11.86,10.21,5.99,Saint Barthélemy,19.99,Falkland Islands (Malvinas)
+países + territórios,LATAM,Premium,51,51,15.82,15.73,7.99,Saint Barthélemy,26.99,Falkland Islands (Malvinas)
+países + territórios,EMEA,Mobile,50,129,2.95,2.99,1.54,Kenya,3.57,South Africa
+países + territórios,EMEA,Basic,118,129,7.09,4.75,2.1,Egypt,17.94,Switzerland
+países + territórios,EMEA,Standard with ads,11,129,9.23,8.95,7.83,Germany,10.57,United Kingdom
+países + territórios,EMEA,Standard,129,129,11.67,8.95,3.63,Egypt,27.57,Switzerland
+países + territórios,EMEA,Premium,129,129,15.41,11.56,5.15,Egypt,35.99,Switzerland
+países + territórios,APAC,Mobile,31,59,3.49,2.99,0.9,Pakistan,6.49,Brunei Darussalam
+países + territórios,APAC,Basic,50,59,6.59,4.2,1.63,Pakistan,12.99,United States Minor Outlying Islands
+países + territórios,APAC,Standard with ads,9,59,7.97,8.99,5.22,South Korea,8.99,American Samoa
+países + territórios,APAC,Standard,59,59,11.36,10.06,2.89,Pakistan,19.99,American Samoa
+países + territórios,APAC,Premium,59,59,14.64,12.67,3.97,Pakistan,26.99,American Samoa

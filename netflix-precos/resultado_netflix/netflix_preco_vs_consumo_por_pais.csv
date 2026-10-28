@@ -1,0 +1,189 @@
+regiao,regiao_incerta,cc,pais,grupo_renda,fonte_consumo,ano_consumo,consumo_pc_anual_usd,consumo_pc_mensal_usd,plano_mais_basico,preco_basico_usd,pct_consumo_basico,preco_standard_usd,pct_consumo_standard,alerta,espaco_basico_vs_pares_de_renda,preco_basico_previsto_pela_curva_usd,espaco_basico_vs_curva,espaco_standard_vs_pares_de_renda,preco_standard_previsto_pela_curva_usd,espaco_standard_vs_curva
+EMEA,,AD,Andorra,High income,"estimado (PIB per capita × 52%, mediana do grupo de renda)",2025,28153,2346.06,Basic,11.19,0.477,16.8,0.716,,0.12,9.45,-0.156,0.114,14.18,-0.156
+EMEA,,AE,United Arab Emirates,High income,Banco Mundial,2023,22369,1864.08,Basic,9.53,0.511,13.34,0.716,dado de consumo antigo (2023),0.045,8.72,-0.085,0.115,13.53,0.014
+APAC,,AF,Afghanistan,Low income,Banco Mundial,2024,466,38.8,Basic,3.99,10.283,7.99,20.591,,-0.473,2.28,-0.429,-0.297,6.2,-0.225
+LATAM,,AG,Antigua and Barbuda,High income,"estimado (PIB per capita × 52%, mediana do grupo de renda)",2025,12870,1072.5,Basic,10.99,1.025,15.49,1.444,,-0.479,7.2,-0.345,-0.447,12.1,-0.219
+EMEA,,AL,Albania,Upper middle income,Banco Mundial,2025,8994,749.47,Basic,5.59,0.746,8.95,1.194,,0.412,6.36,0.138,0.879,11.26,0.258
+EMEA,,AM,Armenia,Upper middle income,Banco Mundial,2025,6736,561.36,Basic,8.95,1.594,11.19,1.993,,-0.34,5.75,-0.357,0.126,10.62,-0.051
+EMEA,,AO,Angola,Lower middle income,Banco Mundial,2024,1678,139.84,Mobile,2.99,2.138,7.99,5.714,,-0.05,3.55,0.188,-0.183,8.02,0.004
+LATAM,,AR,Argentina,Upper middle income,Banco Mundial,2025,10426,868.84,Basic,5.94,0.684,9.89,1.138,,0.54,6.69,0.127,0.971,11.6,0.173
+EMEA,,AT,Austria,High income,Banco Mundial,2025,32627,2718.89,Basic,12.32,0.453,17.92,0.659,,0.178,9.94,-0.193,0.211,14.6,-0.185
+APAC,,AU,Australia,High income,Banco Mundial,2025,33773,2814.41,Standard with ads,6.97,0.248,14.65,0.521,,1.156,10.06,0.444,0.533,14.71,0.004
+EMEA,,AZ,Azerbaijan,Upper middle income,Banco Mundial,2025,4400,366.64,Basic,8.95,2.441,11.19,3.052,,-0.569,4.96,-0.446,-0.265,9.75,-0.129
+EMEA,,BA,Bosnia and Herzegovina,Upper middle income,Banco Mundial,2025,7200,600.01,Basic,5.59,0.932,8.95,1.492,,0.13,5.89,0.053,0.504,10.77,0.203
+LATAM,,BB,Barbados,High income,"estimado (PIB per capita × 52%, mediana do grupo de renda)",2025,14709,1225.71,Basic,10.59,0.864,15.29,1.247,,-0.382,7.54,-0.288,-0.36,12.44,-0.187
+APAC,,BD,Bangladesh,Lower middle income,Banco Mundial,2025,1876,156.32,Mobile,2.99,1.913,7.99,5.111,,0.062,3.69,0.235,-0.086,8.21,0.027
+EMEA,,BE,Belgium,High income,Banco Mundial,2025,31783,2648.59,Basic,12.32,0.465,19.04,0.719,,0.148,9.85,-0.2,0.11,14.53,-0.237
+EMEA,,BF,Burkina Faso,Low income,Banco Mundial,2025,688,57.37,Mobile,2.99,5.211,7.99,13.926,,0.041,2.61,-0.128,0.04,6.7,-0.161
+EMEA,,BG,Bulgaria,High income,Banco Mundial,2025,11891,990.95,Basic,6.71,0.677,10.07,1.016,,-0.211,7.01,0.044,-0.215,11.91,0.183
+EMEA,,BH,Bahrain,High income,Banco Mundial,2024,11842,986.82,Basic,7.99,0.81,10.49,1.063,,-0.34,7.0,-0.124,-0.249,11.9,0.135
+EMEA,,BI,Burundi,Low income,Banco Mundial,2025,119,9.96,Mobile,2.99,30.035,7.99,80.26,,-0.819,1.42,-0.525,-0.819,4.71,-0.411
+EMEA,,BJ,Benin,Lower middle income,Banco Mundial,2025,967,80.58,Mobile,2.99,3.71,7.99,9.915,,-0.453,2.93,-0.019,-0.529,7.18,-0.101
+APAC,,BN,Brunei Darussalam,High income,Banco Mundial,2025,9449,787.41,Mobile,6.49,0.824,13.99,1.777,,-0.352,6.47,-0.003,-0.551,11.37,-0.187
+LATAM,,BO,Bolivia,Lower middle income,Banco Mundial,2024,3078,256.53,Basic,4.99,1.945,6.99,2.725,BOB desvalorizou 42% frente ao US$ desde 2024,0.044,4.38,-0.121,0.714,9.07,0.298
+LATAM,,BR,Brazil,Upper middle income,Banco Mundial,2025,6796,566.37,Standard with ads,4.17,0.736,8.96,1.582,,0.43,5.77,0.384,0.418,10.64,0.188
+LATAM,,BS,Bahamas,High income,Banco Mundial,2024,25369,2114.11,Basic,10.99,0.52,15.49,0.733,,0.027,9.11,-0.171,0.089,13.88,-0.104
+APAC,,BT,Bhutan,Lower middle income,Banco Mundial,2024,2275,189.56,Mobile,2.99,1.577,7.99,4.215,,0.288,3.95,0.32,0.108,8.53,0.068
+EMEA,,BW,Botswana,Upper middle income,Banco Mundial,2025,3560,296.69,Mobile,2.99,1.008,7.99,2.693,,0.045,4.61,0.542,-0.167,9.34,0.169
+EMEA,,BY,Belarus,Upper middle income,Banco Mundial,2025,5713,476.07,Basic,8.95,1.88,11.19,2.35,,-0.44,5.43,-0.393,-0.045,10.27,-0.082
+LATAM,,BZ,Belize,Upper middle income,Banco Mundial,2024,4938,411.49,Basic,3.99,0.97,5.99,1.456,,0.086,5.16,0.294,0.542,9.98,0.666
+UCAN,,CA,Canada,High income,Banco Mundial,2025,31070,2589.13,Standard with ads,5.61,0.217,13.32,0.514,,1.465,9.78,0.743,0.551,14.46,0.086
+EMEA,,CD,"Congo, The Democratic Republic of the",Low income,Banco Mundial,2025,425,35.46,Mobile,2.99,8.433,7.99,22.535,,-0.357,2.21,-0.262,-0.357,6.08,-0.239
+EMEA,,CF,Central African Republic,Low income,Banco Mundial,2025,526,43.84,Mobile,2.99,6.82,7.99,18.225,,-0.205,2.38,-0.206,-0.205,6.35,-0.205
+EMEA,,CG,Congo,Lower middle income,Banco Mundial,2025,1289,107.41,Mobile,2.99,2.784,7.99,7.439,,-0.27,3.24,0.084,-0.372,7.61,-0.048
+EMEA,,CH,Switzerland,High income,Banco Mundial,2025,56841,4736.76,Basic,17.94,0.379,27.57,0.582,,0.41,12.05,-0.328,0.371,16.33,-0.408
+EMEA,,CI,Côte d'Ivoire,Lower middle income,Banco Mundial,2025,2043,170.24,Mobile,2.99,1.756,7.99,4.693,,0.156,3.8,0.272,-0.005,8.35,0.045
+LATAM,,CL,Chile,High income,Banco Mundial,2025,10211,850.91,Basic,7.35,0.864,10.21,1.2,,-0.382,6.65,-0.096,-0.335,11.55,0.131
+EMEA,,CM,Cameroon,Lower middle income,Banco Mundial,2025,1495,124.61,Mobile,2.99,2.399,7.99,6.412,,-0.154,3.41,0.141,-0.272,7.84,-0.019
+LATAM,,CO,Colombia,Upper middle income,Banco Mundial,2025,6266,522.21,Basic,5.84,1.118,10.17,1.948,COP valorizou 25% frente ao US$ desde 2025,-0.058,5.61,-0.039,0.152,10.47,0.029
+LATAM,,CR,Costa Rica,High income,Banco Mundial,2025,12780,1065.01,Basic,9.99,0.938,14.99,1.407,,-0.431,7.18,-0.281,-0.433,12.09,-0.194
+LATAM,,CU,Cuba,Upper middle income,Banco Mundial,2020,4862,405.21,Basic,3.99,0.985,5.99,1.478,dado de consumo antigo (2020),0.069,5.14,0.288,0.518,9.95,0.66
+EMEA,,CV,Cabo Verde,Upper middle income,Banco Mundial,2025,4122,343.51,Mobile,2.99,0.87,7.99,2.326,,0.21,4.85,0.622,-0.035,9.62,0.204
+EMEA,,CY,Cyprus,High income,Banco Mundial,2025,17024,1418.65,Basic,10.07,0.71,14.0,0.987,,-0.248,7.93,-0.212,-0.191,12.81,-0.085
+EMEA,,CZ,Czechia,High income,Banco Mundial,2025,17017,1418.06,Basic,11.9,0.839,15.57,1.098,,-0.364,7.93,-0.333,-0.273,12.81,-0.178
+EMEA,,DE,Germany,High income,Banco Mundial,2025,32182,2681.85,Standard with ads,7.83,0.292,17.92,0.668,,0.829,9.9,0.264,0.194,14.56,-0.187
+EMEA,,DJ,Djibouti,Lower middle income,Banco Mundial,2025,2684,223.69,Mobile,2.99,1.337,7.99,3.572,,0.519,4.18,0.398,0.307,8.82,0.104
+EMEA,,DK,Denmark,High income,Banco Mundial,2025,33596,2799.67,Basic,16.34,0.584,22.33,0.798,,-0.085,10.04,-0.385,0.001,14.69,-0.342
+LATAM,,DM,Dominica,Upper middle income,"estimado (PIB per capita × 64%, mediana do grupo de renda)",2025,7064,588.69,Basic,3.99,0.678,5.99,1.018,,0.554,5.85,0.466,1.205,10.72,0.79
+LATAM,,DO,Dominican Republic,Upper middle income,Banco Mundial,2025,7503,625.27,Basic,6.99,1.118,9.99,1.598,,-0.058,5.97,-0.146,0.405,10.86,0.087
+EMEA,,DZ,Algeria,Upper middle income,Banco Mundial,2025,2527,210.58,Basic,3.99,1.895,7.99,3.794,,-0.444,4.09,0.026,-0.409,8.72,0.091
+LATAM,,EC,Ecuador,Upper middle income,Banco Mundial,2025,4469,372.42,Basic,5.99,1.608,8.99,2.414,,-0.345,4.99,-0.167,-0.07,9.78,0.088
+EMEA,,EE,Estonia,High income,Banco Mundial,2025,18125,1510.38,Basic,8.95,0.593,11.19,0.741,,-0.099,8.11,-0.094,0.077,12.97,0.159
+EMEA,,EG,Egypt,Lower middle income,Banco Mundial,2025,2881,240.07,Basic,2.1,0.875,3.63,1.512,,1.322,4.28,1.04,2.089,8.95,1.465
+EMEA,,ES,Spain,High income,Banco Mundial,2025,21463,1788.57,Standard with ads,10.07,0.563,16.8,0.939,,-0.052,8.6,-0.146,-0.15,13.42,-0.201
+EMEA,,ET,Ethiopia,Low income,Banco Mundial,2025,755,62.91,Mobile,2.99,4.753,7.99,12.701,,0.141,2.69,-0.1,0.14,6.83,-0.145
+EMEA,,FI,Finland,High income,Banco Mundial,2025,28507,2375.58,Basic,12.32,0.519,17.92,0.754,,0.03,9.49,-0.23,0.058,14.21,-0.207
+APAC,,FJ,Fiji,Upper middle income,Banco Mundial,2024,4522,376.87,Mobile,2.99,0.793,7.99,2.12,,0.327,5.01,0.675,0.058,9.8,0.227
+APAC,,FM,"Micronesia, Federated States of",Upper middle income,"estimado (PIB per capita × 64%, mediana do grupo de renda)",2025,2838,236.46,Standard with ads,8.99,3.802,19.99,8.454,,-0.723,4.26,-0.526,-0.735,8.92,-0.554
+EMEA,,FR,France,High income,Banco Mundial,2025,26504,2208.68,Standard with ads,8.95,0.405,16.8,0.761,,0.318,9.25,0.034,0.049,14.0,-0.166
+EMEA,,GA,Gabon,Upper middle income,Banco Mundial,2025,3133,261.11,Mobile,2.99,1.145,7.99,3.06,,-0.08,4.41,0.475,-0.267,9.1,0.139
+EMEA,,GB,United Kingdom,High income,Banco Mundial,2025,34814,2901.13,Standard with adverts,10.57,0.364,18.51,0.638,,0.466,10.17,-0.038,0.251,14.8,-0.201
+LATAM,,GD,Grenada,Upper middle income,"estimado (PIB per capita × 64%, mediana do grupo de renda)",2025,7783,648.58,Basic,3.99,0.615,5.99,0.924,,0.712,6.05,0.516,1.43,10.94,0.826
+EMEA,,GE,Georgia,Upper middle income,Banco Mundial,2025,6851,570.92,Basic,10.52,1.843,13.21,2.314,,-0.429,5.79,-0.45,-0.03,10.66,-0.193
+EMEA,,GH,Ghana,Lower middle income,Banco Mundial,2024,2007,167.28,Mobile,2.99,1.787,7.99,4.776,GHS valorizou 20% frente ao US$ desde 2024,0.136,3.78,0.264,-0.022,8.32,0.041
+EMEA,,GM,Gambia,Low income,Banco Mundial,2025,791,65.95,Mobile,2.99,4.534,7.99,12.116,,0.196,2.74,-0.085,0.195,6.9,-0.137
+EMEA,,GN,Guinea,Lower middle income,Banco Mundial,2025,1260,105.02,Mobile,2.99,2.847,7.99,7.608,,-0.287,3.22,0.076,-0.386,7.57,-0.052
+EMEA,,GQ,Equatorial Guinea,Upper middle income,Banco Mundial,2025,3517,293.09,Mobile,2.99,1.02,7.99,2.726,,0.032,4.59,0.535,-0.177,9.32,0.166
+EMEA,,GR,Greece,High income,Banco Mundial,2025,18607,1550.6,Basic,10.07,0.649,14.0,0.903,,-0.178,8.18,-0.187,-0.116,13.04,-0.069
+LATAM,,GT,Guatemala,Upper middle income,Banco Mundial,2025,5752,479.37,Basic,6.99,1.458,9.99,2.084,,-0.278,5.45,-0.221,0.077,10.29,0.03
+EMEA,,GW,Guinea-Bissau,Low income,Banco Mundial,2025,807,67.29,Mobile,2.99,4.444,7.99,11.875,,0.221,2.76,-0.078,0.22,6.92,-0.133
+LATAM,,GY,Guyana,High income,"estimado (PIB per capita × 52%, mediana do grupo de renda)",2025,16808,1400.68,Basic,3.99,0.285,5.99,0.428,,0.875,7.9,0.98,0.866,12.77,1.133
+LATAM,,HN,Honduras,Lower middle income,Banco Mundial,2025,2955,246.29,Basic,6.99,2.838,9.99,4.056,,-0.284,4.32,-0.382,0.151,9.0,-0.1
+EMEA,,HR,Croatia,High income,Banco Mundial,2025,15226,1268.86,Basic,6.71,0.529,11.19,0.882,,0.01,7.63,0.138,-0.095,12.52,0.119
+LATAM,,HT,Haiti,Lower middle income,Banco Mundial,2025,2564,213.69,Basic,3.99,1.867,5.99,2.803,,0.088,4.11,0.031,0.666,8.74,0.459
+EMEA,,HU,Hungary,High income,Banco Mundial,2025,13614,1134.52,Basic,9.78,0.862,13.77,1.214,,-0.381,7.34,-0.249,-0.343,12.24,-0.111
+APAC,,ID,Indonesia,Upper middle income,Banco Mundial,2025,2794,232.87,Mobile,3.02,1.297,6.71,2.881,,-0.188,4.24,0.404,-0.221,8.89,0.326
+EMEA,,IE,Ireland,High income,Banco Mundial,2025,33180,2765.03,Basic,13.44,0.486,21.28,0.77,,0.099,10.0,-0.256,0.037,14.65,-0.311
+EMEA,,IL,Israel,High income,Banco Mundial,2025,29295,2441.22,Basic,10.74,0.44,17.92,0.734,,0.214,9.58,-0.108,0.087,14.29,-0.203
+APAC,,IN,India,Lower middle income,Banco Mundial,2025,1532,127.63,Mobile,1.54,1.207,5.15,4.035,,0.683,3.44,1.234,0.157,7.88,0.53
+EMEA,,IQ,Iraq,Upper middle income,Banco Mundial,2024,2819,234.89,Basic,3.99,1.699,7.99,3.402,,-0.38,4.25,0.066,-0.34,8.91,0.115
+APAC,,IR,Iran,Upper middle income,Banco Mundial,2025,2106,175.52,Basic,3.99,2.273,7.99,4.552,,-0.537,3.84,-0.037,-0.507,8.4,0.051
+EMEA,,IS,Iceland,High income,Banco Mundial,2025,48790,4065.84,Basic,13.44,0.331,19.04,0.468,,0.615,11.43,-0.149,0.704,15.84,-0.168
+EMEA,,IT,Italy,High income,Banco Mundial,2025,24932,2077.69,Standard with ads,7.83,0.377,15.68,0.755,,0.417,9.06,0.157,0.057,13.83,-0.118
+LATAM,,JM,Jamaica,Upper middle income,"estimado (PIB per capita × 64%, mediana do grupo de renda)",2025,5145,428.72,Basic,5.99,1.397,7.99,1.864,,-0.246,5.24,-0.125,0.204,10.06,0.259
+EMEA,,JO,Jordan,Upper middle income,"estimado (PIB per capita × 64%, mediana do grupo de renda)",2025,3438,286.49,Basic,3.99,1.393,7.99,2.789,,-0.244,4.56,0.142,-0.195,9.27,0.161
+APAC,,JP,Japan,High income,Banco Mundial,2024,17936,1494.66,Standard with ads,5.62,0.376,10.05,0.672,,0.42,8.08,0.438,0.187,12.94,0.288
+EMEA,,KE,Kenya,Lower middle income,Banco Mundial,2025,1818,151.5,Mobile,1.54,1.016,5.4,3.564,,0.998,3.65,1.371,0.31,8.16,0.51
+APAC,Ásia Central (APAC ou EMEA?),KG,Kyrgyzstan,Lower middle income,Banco Mundial,2025,2876,239.64,Basic,8.95,3.735,11.19,4.67,,-0.456,4.28,-0.522,0.0,8.95,-0.201
+APAC,,KH,Cambodia,Lower middle income,Banco Mundial,2025,1673,139.44,Mobile,2.99,2.144,7.99,5.73,,-0.053,3.55,0.187,-0.185,8.02,0.004
+APAC,,KI,Kiribati,Lower middle income,Banco Mundial,2024,2648,220.67,Mobile,2.99,1.355,7.99,3.621,,0.499,4.16,0.392,0.29,8.8,0.101
+EMEA,,KM,Comoros,Lower middle income,Banco Mundial,2025,2085,173.77,Mobile,2.99,1.721,7.99,4.598,,0.18,3.83,0.281,0.016,8.38,0.049
+LATAM,,KN,Saint Kitts and Nevis,High income,"estimado (PIB per capita × 52%, mediana do grupo de renda)",2025,13079,1089.95,Basic,10.99,1.008,15.49,1.421,,-0.47,7.24,-0.341,-0.438,12.14,-0.216
+APAC,,KR,South Korea,High income,Banco Mundial,2025,17397,1449.74,Standard with ads,5.22,0.36,10.06,0.694,,0.483,7.99,0.531,0.15,12.86,0.279
+EMEA,,KW,Kuwait,High income,Banco Mundial,2024,13662,1138.54,Basic,8.99,0.79,11.99,1.053,,-0.324,7.35,-0.182,-0.242,12.25,0.022
+APAC,Ásia Central (APAC ou EMEA?),KZ,Kazakhstan,Upper middle income,Banco Mundial,2024,7399,616.62,Basic,8.95,1.451,11.19,1.815,,-0.275,5.94,-0.336,0.237,10.83,-0.033
+APAC,,LA,Laos,Lower middle income,"estimado (PIB per capita × 76%, mediana do grupo de renda)",2025,1766,147.19,Mobile,2.99,2.031,7.99,5.428,,-0.0,3.62,0.209,-0.14,8.11,0.015
+EMEA,,LB,Lebanon,Lower middle income,Banco Mundial,2024,5782,481.82,Basic,3.99,0.828,7.99,1.658,,1.453,5.46,0.367,1.816,10.3,0.289
+LATAM,,LC,Saint Lucia,Upper middle income,"estimado (PIB per capita × 64%, mediana do grupo de renda)",2025,9479,789.95,Basic,3.99,0.505,5.99,0.758,,1.085,6.48,0.623,1.959,11.38,0.9
+EMEA,,LI,Liechtenstein,High income,"estimado (PIB per capita × 52%, mediana do grupo de renda)",2024,114167,9513.94,Basic,17.94,0.189,27.57,0.29,,1.832,15.35,-0.144,1.754,18.8,-0.318
+APAC,,LK,Sri Lanka,Upper middle income,Banco Mundial,2025,3376,281.31,Mobile,2.99,1.063,7.99,2.84,,-0.009,4.53,0.514,-0.21,9.24,0.156
+EMEA,,LR,Liberia,Low income,"estimado (PIB per capita × 72%, mediana do grupo de renda)",2025,662,55.17,Mobile,2.99,5.419,7.99,14.482,,0.001,2.57,-0.14,-0.0,6.65,-0.167
+EMEA,,LS,Lesotho,Lower middle income,Banco Mundial,2025,1054,87.81,Mobile,2.99,3.405,7.99,9.099,,-0.404,3.02,0.011,-0.487,7.31,-0.086
+EMEA,,LT,Lithuania,High income,Banco Mundial,2025,17986,1498.87,Basic,10.07,0.672,12.32,0.822,,-0.205,8.09,-0.197,-0.029,12.95,0.051
+EMEA,,LU,Luxembourg,High income,Banco Mundial,2025,49319,4109.93,Basic,12.32,0.3,19.04,0.463,,0.781,11.48,-0.069,0.723,15.87,-0.166
+EMEA,,LV,Latvia,High income,Banco Mundial,2025,15161,1263.38,Basic,8.95,0.708,11.19,0.886,,-0.246,7.62,-0.148,-0.099,12.51,0.118
+EMEA,,LY,Libya,Upper middle income,Banco Mundial,2025,1995,166.26,Basic,3.99,2.4,7.99,4.806,,-0.561,3.77,-0.055,-0.533,8.31,0.04
+EMEA,,MA,Morocco,Lower middle income,Banco Mundial,2025,2813,234.38,Basic,4.52,1.928,8.04,3.43,,0.053,4.25,-0.06,0.361,8.91,0.108
+EMEA,,MC,Monaco,High income,"estimado (PIB per capita × 52%, mediana do grupo de renda)",2024,149343,12445.22,Basic,13.44,0.108,16.8,0.135,,3.945,16.85,0.254,4.911,19.85,0.182
+EMEA,,MD,Moldova,Upper middle income,Banco Mundial,2025,7459,621.59,Basic,8.95,1.44,11.19,1.8,,-0.269,5.96,-0.334,0.247,10.84,-0.031
+EMEA,,ME,Montenegro,Upper middle income,Banco Mundial,2025,12047,1003.93,Basic,5.59,0.557,8.95,0.891,,0.891,7.04,0.259,1.517,11.94,0.335
+EMEA,,MG,Madagascar,Low income,Banco Mundial,2025,436,36.36,Mobile,2.99,8.223,7.99,21.973,,-0.34,2.23,-0.256,-0.341,6.12,-0.235
+APAC,,MH,Marshall Islands,Upper middle income,Banco Mundial,2024,5274,439.49,Standard with ads,8.99,2.046,19.99,4.548,,-0.485,5.28,-0.412,-0.507,10.11,-0.494
+EMEA,,MK,North Macedonia,Upper middle income,Banco Mundial,2025,6885,573.73,Basic,5.59,0.974,8.95,1.56,,0.081,5.8,0.037,0.438,10.67,0.192
+EMEA,,ML,Mali,Low income,Banco Mundial,2025,854,71.13,Mobile,2.99,4.203,7.99,11.232,,0.29,2.81,-0.06,0.289,7.0,-0.124
+APAC,,MM,Myanmar,Lower middle income,"estimado (PIB per capita × 76%, mediana do grupo de renda)",2025,1131,94.27,Mobile,2.99,3.172,7.99,8.476,,-0.36,3.1,0.036,-0.449,7.41,-0.072
+APAC,,MN,Mongolia,Upper middle income,Banco Mundial,2025,3660,304.97,Mobile,2.99,0.98,7.99,2.62,,0.074,4.65,0.557,-0.143,9.39,0.175
+EMEA,,MR,Mauritania,Lower middle income,Banco Mundial,2025,1186,98.82,Mobile,2.99,3.026,7.99,8.085,,-0.329,3.15,0.053,-0.422,7.48,-0.064
+EMEA,,MT,Malta,High income,Banco Mundial,2025,21345,1778.78,Basic,10.07,0.566,15.68,0.882,,-0.057,8.58,-0.148,-0.095,13.41,-0.145
+EMEA,,MU,Mauritius,Upper middle income,Banco Mundial,2025,8888,740.66,Mobile,2.99,0.404,8.99,1.214,,1.608,6.33,1.118,0.849,11.23,0.25
+APAC,,MV,Maldives,Upper middle income,Banco Mundial,2024,6929,577.4,Mobile,6.49,1.124,13.99,2.423,,-0.063,5.81,-0.105,-0.074,10.68,-0.236
+EMEA,,MW,Malawi,Low income,Banco Mundial,2025,565,47.07,Mobile,2.99,6.352,7.99,16.973,,-0.146,2.43,-0.186,-0.147,6.44,-0.194
+LATAM,,MX,Mexico,Upper middle income,Banco Mundial,2025,9755,812.89,Standard with ads,7.58,0.932,14.67,1.805,,0.129,6.54,-0.137,0.243,11.45,-0.22
+APAC,,MY,Malaysia,Upper middle income,Banco Mundial,2025,8089,674.05,Mobile,4.87,0.722,13.68,2.03,,0.457,6.13,0.259,0.106,11.02,-0.194
+EMEA,,MZ,Mozambique,Low income,Banco Mundial,2025,445,37.05,Mobile,2.99,8.07,7.99,21.565,,-0.328,2.24,-0.251,-0.328,6.14,-0.232
+EMEA,,NA,Namibia,Lower middle income,Banco Mundial,2025,3816,318.04,Mobile,2.99,0.94,7.99,2.512,,1.16,4.72,0.58,0.859,9.47,0.185
+EMEA,,NE,Niger,Low income,Banco Mundial,2025,529,44.05,Mobile,2.99,6.787,7.99,18.137,,-0.201,2.38,-0.204,-0.202,6.36,-0.204
+EMEA,,NG,Nigeria,Lower middle income,"estimado (PIB per capita × 76%, mediana do grupo de renda)",2025,930,77.51,Mobile,1.88,2.425,4.88,6.296,,-0.163,2.89,0.539,-0.258,7.12,0.46
+LATAM,,NI,Nicaragua,Lower middle income,Banco Mundial,2025,2416,201.35,Basic,5.99,2.975,7.99,3.968,,-0.317,4.03,-0.327,0.177,8.64,0.081
+EMEA,,NL,Netherlands,High income,Banco Mundial,2025,31751,2645.91,Basic,11.19,0.423,17.92,0.677,,0.263,9.85,-0.12,0.178,14.52,-0.19
+EMEA,,NO,Norway,High income,Banco Mundial,2025,40226,3352.19,Basic,12.44,0.371,15.58,0.465,,0.439,10.69,-0.141,0.717,15.23,-0.022
+APAC,,NP,Nepal,Lower middle income,Banco Mundial,2025,1301,108.44,Mobile,2.99,2.757,7.99,7.368,,-0.263,3.25,0.088,-0.366,7.62,-0.046
+APAC,,NR,Nauru,High income,"estimado (PIB per capita × 52%, mediana do grupo de renda)",2025,7591,632.61,Mobile,6.49,1.026,13.99,2.211,,-0.479,6.0,-0.076,-0.639,10.88,-0.222
+APAC,,NZ,New Zealand,High income,Banco Mundial,2024,28155,2346.29,Basic,10.1,0.43,14.58,0.621,,0.241,9.45,-0.065,0.284,14.18,-0.028
+EMEA,,OM,Oman,High income,Banco Mundial,2024,7937,661.42,Basic,8.39,1.268,10.49,1.586,,-0.579,6.09,-0.274,-0.497,10.98,0.047
+LATAM,,PA,Panama,High income,Banco Mundial,2024,9393,782.75,Basic,5.99,0.765,9.99,1.276,,-0.302,6.46,0.078,-0.375,11.36,0.137
+LATAM,,PE,Peru,Upper middle income,Banco Mundial,2025,5662,471.81,Basic,8.39,1.778,13.04,2.764,,-0.408,5.42,-0.355,-0.188,10.26,-0.213
+APAC,,PG,Papua New Guinea,Lower middle income,"estimado (PIB per capita × 76%, mediana do grupo de renda)",2025,2294,191.18,Mobile,2.99,1.564,7.99,4.179,,0.299,3.96,0.324,0.117,8.55,0.07
+APAC,,PH,Philippines,Upper middle income,Banco Mundial,2025,3187,265.57,Mobile,2.69,1.013,7.14,2.689,,0.04,4.44,0.649,-0.165,9.13,0.279
+APAC,,PK,Pakistan,Lower middle income,Banco Mundial,2025,1334,111.21,Mobile,0.9,0.809,2.89,2.599,,1.51,3.28,2.645,0.797,7.66,1.651
+EMEA,,PL,Poland,High income,Banco Mundial,2025,16463,1371.94,Basic,9.46,0.69,14.06,1.025,,-0.226,7.84,-0.171,-0.221,12.72,-0.095
+EMEA,,PS,"Palestine, State of",Lower middle income,Banco Mundial,2025,2873,239.44,Basic,3.99,1.666,7.99,3.337,,0.219,4.28,0.073,0.399,8.94,0.119
+EMEA,,PT,Portugal,High income,Banco Mundial,2025,19569,1630.78,Basic,10.07,0.617,14.56,0.893,,-0.135,8.33,-0.173,-0.106,13.17,-0.095
+APAC,,PW,Palau,High income,Banco Mundial,2024,13561,1130.09,Standard with ads,8.99,0.796,19.99,1.769,,-0.329,7.33,-0.184,-0.549,12.23,-0.388
+LATAM,,PY,Paraguay,Upper middle income,Banco Mundial,2025,4636,386.32,Basic,4.99,1.292,6.99,1.809,PYG valorizou 30% frente ao US$ desde 2025,-0.185,5.05,0.013,0.24,9.85,0.409
+EMEA,,QA,Qatar,High income,Banco Mundial,2022,17294,1441.17,Basic,8.99,0.624,11.99,0.832,dado de consumo antigo (2022),-0.144,7.98,-0.113,-0.041,12.85,0.072
+EMEA,,RO,Romania,High income,Banco Mundial,2025,13983,1165.27,Basic,6.71,0.576,12.32,1.057,,-0.073,7.41,0.104,-0.245,12.31,-0.001
+EMEA,,RS,Serbia,Upper middle income,Banco Mundial,2025,9530,794.18,Basic,6.71,0.845,10.07,1.268,,0.246,6.49,-0.033,0.77,11.39,0.131
+EMEA,,RW,Rwanda,Low income,Banco Mundial,2025,723,60.29,Mobile,2.99,4.959,7.99,13.253,,0.094,2.65,-0.113,0.093,6.77,-0.152
+EMEA,,SA,Saudi Arabia,High income,Banco Mundial,2025,15954,1329.49,Basic,9.33,0.702,13.07,0.983,,-0.239,7.76,-0.169,-0.188,12.64,-0.033
+APAC,,SB,Solomon Islands,Lower middle income,Banco Mundial,2024,1584,131.99,Mobile,2.99,2.265,7.99,6.053,,-0.103,3.48,0.164,-0.229,7.93,-0.007
+EMEA,,SC,Seychelles,High income,Banco Mundial,2025,13472,1122.65,Mobile,2.99,0.266,7.99,0.712,,1.005,7.32,1.447,0.121,12.22,0.529
+EMEA,,SD,Sudan,Low income,Banco Mundial,2025,950,79.13,Basic,3.99,5.042,7.99,10.097,,0.076,2.92,-0.269,0.434,7.15,-0.105
+EMEA,,SE,Sweden,High income,Banco Mundial,2025,29028,2418.98,Basic,12.91,0.534,16.91,0.699,,0.001,9.55,-0.26,0.142,14.26,-0.157
+APAC,,SG,Singapore,High income,Banco Mundial,2025,30720,2560.01,Basic,12.48,0.487,17.94,0.701,,0.095,9.74,-0.22,0.139,14.43,-0.196
+EMEA,,SI,Slovenia,High income,Banco Mundial,2025,19202,1600.2,Basic,6.71,0.419,10.07,0.629,,0.273,8.27,0.233,0.268,13.12,0.303
+EMEA,,SK,Slovakia,High income,Banco Mundial,2025,16745,1395.41,Basic,10.63,0.762,12.88,0.923,,-0.299,7.89,-0.258,-0.135,12.76,-0.009
+EMEA,,SL,Sierra Leone,Low income,Banco Mundial,2025,662,55.13,Mobile,2.99,5.424,7.99,14.493,,0.0,2.57,-0.14,-0.001,6.65,-0.168
+EMEA,,SM,San Marino,High income,Banco Mundial,2023,22910,1909.19,Standard with ads,7.83,0.41,15.68,0.821,dado de consumo antigo (2023),0.302,8.8,0.123,-0.028,13.6,-0.133
+EMEA,,SN,Senegal,Lower middle income,Banco Mundial,2025,1248,103.97,Mobile,2.99,2.876,7.99,7.685,,-0.294,3.2,0.072,-0.392,7.56,-0.054
+EMEA,,SO,Somalia,Low income,Banco Mundial,2025,882,73.47,Mobile,2.99,4.07,7.99,10.876,,0.333,2.84,-0.05,0.332,7.05,-0.118
+LATAM,,SR,Suriname,Upper middle income,"estimado (PIB per capita × 64%, mediana do grupo de renda)",2025,4545,378.74,Basic,3.99,1.053,5.99,1.582,,-0.0,5.02,0.258,0.419,9.81,0.638
+EMEA,,ST,Sao Tome and Principe,Lower middle income,Banco Mundial,2025,4125,343.78,Mobile,2.99,0.87,7.99,2.324,,1.335,4.85,0.623,1.009,9.62,0.204
+LATAM,,SV,El Salvador,Upper middle income,Banco Mundial,2025,4689,390.79,Basic,6.99,1.789,9.99,2.556,,-0.411,5.07,-0.274,-0.122,9.87,-0.012
+EMEA,,SZ,Eswatini,Lower middle income,Banco Mundial,2024,2482,206.83,Mobile,2.99,1.446,7.99,3.863,,0.405,4.07,0.361,0.209,8.68,0.087
+EMEA,,TD,Chad,Low income,Banco Mundial,2025,583,48.6,Mobile,2.99,6.152,7.99,16.439,,-0.118,2.46,-0.177,-0.119,6.48,-0.189
+EMEA,,TG,Togo,Lower middle income,Banco Mundial,2023,887,73.93,Mobile,2.99,4.044,7.99,10.808,dado de consumo antigo (2023),-0.498,2.85,-0.048,-0.568,7.06,-0.117
+APAC,,TH,Thailand,Upper middle income,Banco Mundial,2025,4710,392.49,Mobile,2.95,0.752,10.4,2.65,,0.401,5.08,0.722,-0.153,9.88,-0.05
+APAC,Ásia Central (APAC ou EMEA?),TJ,Tajikistan,Lower middle income,Banco Mundial,2024,1262,105.17,Basic,10.52,10.003,13.21,12.56,,-0.797,3.22,-0.694,-0.628,7.58,-0.426
+APAC,,TL,Timor-Leste,Lower middle income,Banco Mundial,2024,1114,92.83,Mobile,2.99,3.221,7.99,8.607,,-0.369,3.08,0.03,-0.457,7.39,-0.075
+APAC,Ásia Central (APAC ou EMEA?),TM,Turkmenistan,Upper middle income,"estimado (PIB per capita × 64%, mediana do grupo de renda)",2025,4204,350.36,Basic,8.95,2.554,11.19,3.194,,-0.588,4.88,-0.454,-0.297,9.66,-0.137
+EMEA,,TN,Tunisia,Lower middle income,Banco Mundial,2025,3707,308.91,Basic,3.99,1.292,7.99,2.587,,0.572,4.68,0.172,0.806,9.42,0.179
+APAC,,TO,Tonga,Upper middle income,Banco Mundial,2024,5980,498.32,Mobile,2.99,0.6,7.99,1.603,,0.755,5.52,0.846,0.4,10.37,0.298
+EMEA,,TR,Türkiye,Upper middle income,Banco Mundial,2025,10175,847.9,Basic,5.27,0.622,7.9,0.932,TRY desvalorizou 20% frente ao US$ desde 2025,0.694,6.64,0.259,1.408,11.54,0.461
+LATAM,,TT,Trinidad and Tobago,High income,"estimado (PIB per capita × 52%, mediana do grupo de renda)",2025,9835,819.62,Basic,11.99,1.463,16.99,2.073,,-0.635,6.56,-0.453,-0.615,11.47,-0.325
+APAC,,TV,Tuvalu,Upper middle income,"estimado (PIB per capita × 64%, mediana do grupo de renda)",2025,3884,323.65,Mobile,2.99,0.924,7.99,2.469,,0.14,4.75,0.589,-0.091,9.51,0.19
+EMEA,,TZ,Tanzania,Lower middle income,Banco Mundial,2025,646,53.82,Mobile,2.99,5.556,7.99,14.847,,-0.634,2.55,-0.147,-0.685,6.62,-0.172
+EMEA,,UA,Ukraine,Upper middle income,Banco Mundial,2025,3671,305.9,Basic,5.59,1.827,8.39,2.743,,-0.424,4.66,-0.166,-0.182,9.4,0.12
+EMEA,,UG,Uganda,Low income,Banco Mundial,2025,787,65.56,Mobile,2.99,4.561,7.99,12.188,,0.189,2.73,-0.087,0.188,6.89,-0.138
+UCAN,,US,United States,High income,Banco Mundial,2024,58517,4876.42,Standard with ads,8.99,0.184,19.99,0.41,,1.897,12.18,0.354,0.947,16.43,-0.178
+LATAM,,UY,Uruguay,High income,"estimado (PIB per capita × 52%, mediana do grupo de renda)",2025,13076,1089.63,Basic,11.99,1.1,16.99,1.559,,-0.515,7.24,-0.396,-0.488,12.14,-0.285
+APAC,Ásia Central (APAC ou EMEA?),UZ,Uzbekistan,Lower middle income,Banco Mundial,2025,2545,212.11,Basic,8.95,4.219,11.19,5.275,,-0.519,4.1,-0.541,-0.115,8.73,-0.22
+LATAM,,VC,Saint Vincent and the Grenadines,Upper middle income,"estimado (PIB per capita × 64%, mediana do grupo de renda)",2025,8075,672.95,Basic,3.99,0.593,5.99,0.89,,0.776,6.13,0.535,1.521,11.02,0.839
+LATAM,,VE,Venezuela,Lower middle income,"estimado (PIB per capita × 76%, mediana do grupo de renda)",2025,2655,221.27,Basic,4.99,2.255,6.99,3.159,,-0.099,4.16,-0.165,0.478,8.8,0.259
+APAC,,VN,Vietnam,Upper middle income,Banco Mundial,2025,2696,224.64,Mobile,2.86,1.273,8.93,3.975,,-0.173,4.19,0.464,-0.436,8.83,-0.011
+APAC,,VU,Vanuatu,Lower middle income,Banco Mundial,2024,2976,248.03,Mobile,2.99,1.205,7.99,3.221,,0.685,4.33,0.449,0.45,9.01,0.127
+APAC,,WS,Samoa,Upper middle income,Banco Mundial,2025,4274,356.14,Mobile,2.99,0.84,7.99,2.244,,0.254,4.91,0.643,0.0,9.69,0.213
+EMEA,,YE,Yemen,Low income,Banco Mundial,2018,782,65.18,Basic,3.99,6.121,7.99,12.258,dado de consumo antigo (2018),-0.114,2.73,-0.317,0.181,6.88,-0.139
+EMEA,,ZA,South Africa,Upper middle income,Banco Mundial,2025,4344,361.96,Mobile,3.57,0.986,10.82,2.989,,0.068,4.94,0.384,-0.249,9.72,-0.101
+EMEA,,ZM,Zambia,Lower middle income,Banco Mundial,2024,570,47.52,Mobile,2.99,6.293,7.99,16.816,ZMW valorizou 32% frente ao US$ desde 2024,-0.677,2.44,-0.183,-0.722,6.45,-0.192
+EMEA,,ZW,Zimbabwe,Lower middle income,Banco Mundial,2024,2107,175.62,Mobile,2.99,1.703,7.99,4.55,câmbio de ZWG não comparável com 2024 (troca de moeda?),0.193,3.84,0.286,0.026,8.4,0.052

@@ -1,0 +1,17 @@
+escopo,variante,regiao,n,maior_pais,maior_plano,maior_usd,menor_pais,menor_plano,menor_usd,media_usd,mediana_usd,incertos_na_regiao
+só países,plano mais básico,UCAN,2,United States,Standard with ads,8.99,Canada,Standard with ads,5.61,7.3,7.3,
+só países,plano mais básico,LATAM,33,Trinidad and Tobago,Basic,11.99,Belize,Basic,3.99,6.65,5.99,
+só países,plano mais básico,EMEA,114,Switzerland,Basic,17.94,Kenya,Mobile,1.54,6.33,3.99,
+só países,plano mais básico,APAC,43,Singapore,Basic,12.48,Pakistan,Mobile,0.9,5.11,2.99,"Kyrgyzstan, Kazakhstan, Tajikistan, Turkmenistan, Uzbekistan"
+só países,mais básico sem Mobile,UCAN,2,United States,Standard with ads,8.99,Canada,Standard with ads,5.61,7.3,7.3,
+só países,mais básico sem Mobile,LATAM,33,Trinidad and Tobago,Basic,11.99,Belize,Basic,3.99,6.65,5.99,
+só países,mais básico sem Mobile,EMEA,114,Switzerland,Basic,17.94,Egypt,Basic,2.1,6.77,4.75,
+só países,mais básico sem Mobile,APAC,43,Singapore,Basic,12.48,Pakistan,Basic,1.63,6.07,3.99,"Kyrgyzstan, Kazakhstan, Tajikistan, Turkmenistan, Uzbekistan"
+países + territórios,plano mais básico,UCAN,2,United States,Standard with ads,8.99,Canada,Standard with ads,5.61,7.3,7.3,
+países + territórios,plano mais básico,LATAM,51,French Guiana,Basic,13.44,Saint Barthélemy,Basic,3.99,8.02,7.35,"Bermuda, Puerto Rico, Virgin Islands, U.S."
+países + territórios,plano mais básico,EMEA,129,Switzerland,Basic,17.94,Kenya,Mobile,1.54,6.87,5.59,"Greenland, Saint Pierre and Miquelon"
+países + territórios,plano mais básico,APAC,59,United States Minor Outlying Islands,Basic,12.99,Pakistan,Mobile,0.9,5.92,5.22,"American Samoa, Guam, Kyrgyzstan, Kazakhstan, Northern Mariana Islands, Tajikistan, Turkmenistan, Uzbekistan"
+países + territórios,mais básico sem Mobile,UCAN,2,United States,Standard with ads,8.99,Canada,Standard with ads,5.61,7.3,7.3,
+países + territórios,mais básico sem Mobile,LATAM,51,French Guiana,Basic,13.44,Saint Barthélemy,Basic,3.99,8.02,7.35,"Bermuda, Puerto Rico, Virgin Islands, U.S."
+países + territórios,mais básico sem Mobile,EMEA,129,Switzerland,Basic,17.94,Egypt,Basic,2.1,7.28,5.59,"Greenland, Saint Pierre and Miquelon"
+países + territórios,mais básico sem Mobile,APAC,59,United States Minor Outlying Islands,Basic,12.99,Pakistan,Basic,1.63,6.8,5.62,"American Samoa, Guam, Kyrgyzstan, Kazakhstan, Northern Mariana Islands, Tajikistan, Turkmenistan, Uzbekistan"

@@ -1,0 +1,16 @@
+# Caches brutos (HTML da Central de Ajuda ~17 MB; infográficos da Nielsen ~170 MB): não versionados.
+# Uma coleta nova cria netflix_cache/ do zero, com preços e câmbio do mesmo dia.
+netflix_cache/
+nielsen_cache/
+
+# Retrato da coleta de 10/10/2026: só os arquivos pequenos que os scripts leem.
+# Os indicadores do Banco Mundial (_bm_<indicador>.json) são baixados de novo quando faltam.
+netflix_cache_2026-10-10/*
+!netflix_cache_2026-10-10/_cambio.json
+!netflix_cache_2026-10-10/_coletado_em.txt
+!netflix_cache_2026-10-10/_bm_paises.json
+
+node_modules/
+package-lock.json
+__pycache__/
+netflix_faixa_precos_regiao_gerado.pptx
